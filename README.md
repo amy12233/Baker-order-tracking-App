@@ -16,3 +16,14 @@ No external Python packages are required. Accounts and orders persist in `bakery
 ## Important
 
 This is a **local development application**, not a publicly hosted service. Accounts are real in the local SQLite database, but only accessible while the server is running on this computer. For production/public internet use, add HTTPS, CSRF protections, login rate limiting, secure hosting, password recovery, and proper database backups. Keep `bakery.sqlite3` private and back it up regularly. Orders from the old browser-local version are not automatically imported.
+
+## Order Management Features
+
+The bakery order-tracking app helps small business owners organize customer orders and payments.
+
+### Features
+- Create and manage customer orders
+- Track deposits and remaining balances
+- View upcoming pickup dates
+- Manage orders without logging in
+- Create an account to save orders
