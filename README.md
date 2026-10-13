@@ -1,4 +1,4 @@
-# Sweet Cravings by Victoria — Order Studio
+# Sweet Cravings by Victoria — Baker order tracking app
 
 A light-pink, Arial-font bakery order tracker with real account creation and login, and persistent orders stored separately for each account in SQLite.
 
